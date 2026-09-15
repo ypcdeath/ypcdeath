@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm pc 👋
 
-<!--
-**ypcdeath/ypcdeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&width=435&lines=CV+Researcher;Indie+Game+Enthusiast;Anime+Enthusiast)]()
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+* 🎓 Software Engineering Undergraduate @ Ningxia University.
+* 🔬 Currently focusing on **Computer Vision**, with a strong interest in industrial anomaly detection (Zero-shot/Few-shot) and Vision-Language Models.
+* 💻 Passionate about **Backend Development (Java)** and **Indie Game Development (Godot)**.
+* 📖 In my free time, I enjoy reading social-school mystery novels and exploring AI coding tools to optimize workflows.
+* 📫 Feel free to reach out for discussions on academic research or open-source projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages & Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
+
+**Tools & Environments:**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoDL-1081C1?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ypcdeath/ypcdeath/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ypcdeath/ypcdeath/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ypcdeath/ypcdeath/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
