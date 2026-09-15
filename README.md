@@ -33,5 +33,5 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![github contribution grid snake animation dark](https://raw.githubusercontent.com/ypcdeath/ypcdeath/output/github-contribution-grid-snake-dark.svg?v=5#gh-dark-mode-only)
-![github contribution grid snake animation light](https://raw.githubusercontent.com/ypcdeath/ypcdeath/output/github-contribution-grid-snake.svg?v=5#gh-light-mode-only)
+![github contribution grid snake animation dark](https://github.com/ypcdeath/ypcdeath/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation light](https://github.com/ypcdeath/ypcdeath/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
