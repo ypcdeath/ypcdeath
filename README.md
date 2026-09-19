@@ -1,6 +1,6 @@
 # Hi there, I'm pc 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=435&lines=Software+Engineering+Student;Computer+Vision+Researcher;Indie+Game+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=435&lines=Software+Engineering+Student;Computer+Vision+Researcher;Indie+Game+Enthusiast,Anime+Enthusiast)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 
